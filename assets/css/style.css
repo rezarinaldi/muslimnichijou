@@ -1270,6 +1270,7 @@ section {
   cursor: pointer;
   color: #9ccae6;
   transition: 0.3s;
+  text-align: center;
 }
 
 .faq .faq-list i {
